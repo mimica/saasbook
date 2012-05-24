@@ -1,4 +1,4 @@
 saasbook
 ========
 
-Repo for saasbook course
+Repo for saasbook course saasbook.info
